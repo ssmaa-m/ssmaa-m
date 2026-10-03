@@ -1,4 +1,4 @@
-# Hi, I'm Asma 👋
+# Hi, I'm Asma ;)
 
 🎓 Computer Science student at **Haute École Léonard de Vinci** in Brussels  
 💻 Specializing in **Application Development** with an **AI option**
